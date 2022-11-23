@@ -1,7 +1,6 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-Seth and Tom, Colorado Board of Elections employees, gave me the following tasks to complete the election audit of a recent local congressional election.
 
 1.  Calculate the total number of votes cast.
 2.  Get a complete list of candidates who received votes.
