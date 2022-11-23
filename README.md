@@ -34,7 +34,6 @@ The analysis of the election show that:
 -The winner was Diana DeGette with 73.8% of the vote and 272,892 number of votes.
 
 ## Election-Audit Summary
-
 Going forward this script can be used on future elections with only a few modifications.
 -The file_to_load path may need to be adjusted for the new dataset. (lines 6 & 8)
 -The candidate_name list number and the county_name list number may need to be changed depending on the configuration of the columns of the new dataset. (lines 46 & 49)
