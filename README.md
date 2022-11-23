@@ -17,26 +17,28 @@ Seth and Tom, Colorado Board of Elections employees, gave me the following tasks
 
 ## Election-Audit Results
 The analysis of the election show that:
--There were 369,711 votes cast in the election.
--The counties in this audit and their percentage of total votes and actual   Counts are:
+*There were 369,711 votes cast in the election.
+*The counties in this audit, their percentage of total votes and total votes:
     -Jefferson: 10.5% (38,855)
     -Denver: 82.8% (306,055)
     -Arapahoe: 6.7% (24,801)
--The county with the largest voter turnout was Denver.
--The candidates were:
+*The county with the largest voter turnout was Denver.
+*The candidates were:
     -Charles Casper Stockham
     -Diana DeGette
     -Raymon Anthony Doane
--The candidates results were:
+*The candidates results were:
     -Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
     -Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     -Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
--The winner was Diana DeGette with 73.8% of the vote and 272,892 number of votes.
+*The winner was Diana DeGette with 73.8% of the vote and 272,892 number of votes.
 
 ## Election-Audit Summary
 Going forward this script can be used on future elections with only a few modifications.
--The file_to_load path may need to be adjusted for the new dataset. (lines 6 & 8)
--The candidate_name list number and the county_name list number may need to be changed depending on the configuration of the columns of the new dataset. (lines 46 & 49)
+
+The file_to_load path may need to be adjusted for the new dataset. (lines 6 & 8)
+
+The candidate_name list number and the county_name list number may need to be changed depending on the configuration of the columns of the new dataset. (lines 46 & 49)
 -
 
 
